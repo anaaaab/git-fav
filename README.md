@@ -8,11 +8,11 @@ If the user tries to add a profile that doesn't exist, they will receive an aler
 
 Homepage with no favorite profiles: </p>
 
-![preview](assets/git-fav.png)
+![preview](assets/no-favs.png)
 
 Application with registered favorite profiles:
 
-![preview](assets/no-favs.png)
+![preview](assets/git-fav.png)
 
 #
 
